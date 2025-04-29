@@ -1,0 +1,1499 @@
+.devicedetails-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.devicedetails-devicedetails {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal10 {
+  width: 1200px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-app.banani.co-white);
+}
+ 
+.devicedetails-auto-layout-vertical10 {
+  width: 256px;
+  height: 1127px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-auto-layout-horizontal11 {
+  gap: 59.41999816894531px;
+  width: 256px;
+  display: flex;
+  padding: 20px 27.989999771118164px 12px 31.989999771118164px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.devicedetails-rectangle {
+  width: 117px;
+  height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical11 {
+  height: 24px;
+  display: flex;
+  padding: 0 0 4.449999809265137px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal12 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.devicedetails-variant2 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical12 {
+  width: 256px;
+  height: 993px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical13 {
+  gap: 4px;
+  width: 256px;
+  display: flex;
+  padding: 0 20px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-variant67hoverfalse {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+ 
+.devicedetails-auto-layout-vertical14 {
+  top: 6px;
+  left: 11.989999771118164px;
+  width: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-component11 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical15 {
+  top: 2.565000057220459px;
+  left: 31.989999771118164px;
+  width: 84px;
+  display: flex;
+  padding: 0 0 1.4450000524520874px 12px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text10 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-variant68hoverfalse {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: rgba(99, 74, 255, 0.10000000149011612);
+}
+ 
+.devicedetails-auto-layout-vertical16 {
+  top: 6px;
+  left: 11.989999771118164px;
+  width: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-component12 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical17 {
+  top: 2.559999942779541px;
+  left: 31.989999771118164px;
+  width: 64px;
+  display: flex;
+  padding: 0 0 1.4500000476837158px 12px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text11 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-variant69hoverfalse {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+ 
+.devicedetails-auto-layout-vertical18 {
+  top: 6px;
+  left: 11.989999771118164px;
+  width: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-component13 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical19 {
+  top: 2.559999942779541px;
+  left: 31.989999771118164px;
+  width: 68px;
+  display: flex;
+  padding: 0 0 1.4500000476837158px 12px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text12 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-variant70hoverfalse {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+ 
+.devicedetails-auto-layout-vertical20 {
+  top: 6px;
+  left: 11.989999771118164px;
+  width: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-component14 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical21 {
+  top: 2.559999942779541px;
+  left: 31.989999771118164px;
+  width: 60px;
+  display: flex;
+  padding: 0 0 1.4500000476837158px 12px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text13 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-variant71hoverfalse {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+ 
+.devicedetails-auto-layout-vertical22 {
+  top: 6px;
+  left: 11.989999771118164px;
+  width: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-component15 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical23 {
+  top: 2.555000066757202px;
+  left: 31.989999771118164px;
+  width: 98px;
+  display: flex;
+  padding: 0 0 1.4550000429153442px 12px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text14 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-variant72hoverfalse {
+  width: 216px;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+ 
+.devicedetails-auto-layout-vertical24 {
+  top: 6px;
+  left: 11.989999771118164px;
+  width: 20px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-component16 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical25 {
+  top: 2.555000066757202px;
+  left: 31.989999771118164px;
+  width: 56px;
+  display: flex;
+  padding: 0 0 1.4450000524520874px 12px;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text15 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical26 {
+  width: 256px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal13 {
+  gap: -0.009999999776482582px;
+  width: 256px;
+  display: flex;
+  padding: 16px 24px;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-vertical27 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-alto);
+}
+ 
+.devicedetails-frame1 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("public/external/tq_fujz6cd494-r18p-200h.png");
+}
+ 
+.devicedetails-frame2 {
+  width: 99px;
+  height: 46px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-vertical28 {
+  display: flex;
+  padding: 0 200px 100px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical29 {
+  gap: 12px;
+  display: flex;
+  padding: 28px 0 0;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal14 {
+  display: flex;
+  padding: 8px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-horizontal15 {
+  display: flex;
+  align-items: center;
+}
+ 
+.devicedetails-auto-layout-horizontal16 {
+  display: flex;
+  align-items: center;
+}
+ 
+.devicedetails-auto-layout-vertical30 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text16 {
+  color: var(--dl-color-app.banani.co-ebony);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.devicedetails-auto-layout-vertical31 {
+  width: 32px;
+  height: 16px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical32 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-variant117 {
+  width: 16px;
+  height: 16px;
+  flex-grow: 1;
+}
+ 
+.devicedetails-auto-layout-vertical33 {
+  display: flex;
+  padding: 0 0 0 4px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal17 {
+  display: flex;
+  align-items: center;
+}
+ 
+.devicedetails-auto-layout-vertical34 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text17 {
+  color: var(--dl-color-app.banani.co-ebony);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.devicedetails-auto-layout-vertical35 {
+  width: 32px;
+  height: 16px;
+  display: flex;
+  padding: 0 8px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical36 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-variant118 {
+  width: 16px;
+  height: 16px;
+  flex-grow: 1;
+}
+ 
+.devicedetails-auto-layout-vertical37 {
+  display: flex;
+  padding: 0 0 0 4px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal18 {
+  display: flex;
+  align-items: center;
+}
+ 
+.devicedetails-auto-layout-vertical38 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text18 {
+  color: var(--dl-color-app.banani.co-ebony);
+  height: auto;
+  text-align: left;
+  line-height: normal;
+}
+ 
+.devicedetails-auto-layout-vertical39 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text19 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 22px;
+}
+ 
+.devicedetails-auto-layout-vertical40 {
+  display: flex;
+  padding: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+  border-radius: 16px;
+  flex-direction: column;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-auto-layout-vertical41 {
+  width: 36px;
+  height: 48px;
+  display: flex;
+  padding: 0 0 12px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal19 {
+  width: 20px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 9999px;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-variant10 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical42 {
+  display: flex;
+  padding: 0 0 4px;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical43 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text20 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 28px;
+}
+ 
+.devicedetails-auto-layout-vertical44 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text21 {
+  color: var(--dl-color-app.banani.co-palesky);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 22px;
+}
+ 
+.devicedetails-auto-layout-vertical45 {
+  height: 46px;
+  display: flex;
+  padding: 23.989999771118164px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-text22 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 22px;
+}
+ 
+.devicedetails-auto-layout-horizontal20 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-vertical46 {
+  height: 42px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-electricviolet);
+}
+ 
+.devicedetails-auto-layout-vertical47 {
+  height: 18px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-text23 {
+  color: var(--dl-color-app.banani.co-white);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-auto-layout-vertical48 {
+  height: 42px;
+  display: flex;
+  padding: 12px 16px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-auto-layout-vertical49 {
+  height: 18px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-text24 {
+  color: var(--dl-color-app.banani.co-electricviolet);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-auto-layout-vertical50 {
+  display: flex;
+  padding: 12px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text25 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 22px;
+}
+ 
+.devicedetails-auto-layout-horizontal21 {
+  width: 496px;
+  height: 327px;
+  display: flex;
+  padding: 47.9900016784668px 0 0;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.devicedetails-auto-layout-vertical51 {
+  width: 496px;
+  height: 279px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-variant119 {
+  width: 496px;
+  height: 279px;
+  display: flex;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-group10 {
+  top: 5.000000476837158px;
+  left: 5.00509786605835px;
+  width: 485.9898986816406px;
+  height: 208.99986267089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-group11 {
+  top: 0px;
+  left: 0px;
+  width: 485.9898986816406px;
+  height: 208.99986267089844px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector10 {
+  top: 208.99998474121094px;
+  left: -0.00008068337047006935px;
+  width: 486px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.devicedetails-vector11 {
+  top: 156.75px;
+  left: -0.00008068337047006935px;
+  width: 486px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.devicedetails-vector12 {
+  top: 104.5px;
+  left: -0.00008068337047006935px;
+  width: 486px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.devicedetails-vector13 {
+  top: 52.249996185302734px;
+  left: -0.00008068337047006935px;
+  width: 486px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.devicedetails-vector14 {
+  top: 0px;
+  left: 0.00012540817260742188px;
+  width: 486px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.devicedetails-group12 {
+  top: 220.94000244140625px;
+  left: 25.218976974487305px;
+  width: 444.0626525878906px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-group13 {
+  top: 0px;
+  left: 0px;
+  width: 444.0626525878906px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-group14 {
+  top: 0px;
+  left: 0px;
+  width: 29px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text26 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group15 {
+  top: 0px;
+  left: 71.42707061767578px;
+  width: 25px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text27 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group16 {
+  top: 0px;
+  left: 138.35423278808594px;
+  width: 30px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text28 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group17 {
+  top: 0px;
+  left: 209.7812957763672px;
+  width: 26px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text29 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group18 {
+  top: 0px;
+  left: 283.70831298828125px;
+  width: 17px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text30 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group19 {
+  top: 0px;
+  left: 350.635498046875px;
+  width: 22px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text31 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group20 {
+  top: 0px;
+  left: 418.0626525878906px;
+  width: 26px;
+  height: 17px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-text32 {
+  color: var(--dl-color-app.banani.co-dovegray);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: normal;
+}
+ 
+.devicedetails-group21 {
+  top: 18.062498092651367px;
+  left: 11.947587966918945px;
+  width: 471.5615234375px;
+  height: 195.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-group22 {
+  top: 0px;
+  left: 0px;
+  width: 471.5615234375px;
+  height: 195.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-group23 {
+  top: 0px;
+  left: 0px;
+  width: 471.5615234375px;
+  height: 195.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-group24 {
+  top: 39.187496185302734px;
+  left: 4.114758667128626e-8px;
+  width: 54.99884033203125px;
+  height: 156.75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 157px;
+  position: absolute;
+}
+ 
+.devicedetails-group25 {
+  top: 65.3125px;
+  left: 69.4273452758789px;
+  width: 54.99884796142578px;
+  height: 130.62498474121094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector16 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 131px;
+  position: absolute;
+}
+ 
+.devicedetails-group26 {
+  top: 0px;
+  left: 138.85447692871094px;
+  width: 54.99884033203125px;
+  height: 195.9375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector17 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 196px;
+  position: absolute;
+}
+ 
+.devicedetails-group27 {
+  top: 26.124998092651367px;
+  left: 208.28158569335938px;
+  width: 54.99885559082031px;
+  height: 169.8125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector18 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 170px;
+  position: absolute;
+}
+ 
+.devicedetails-group28 {
+  top: 52.25px;
+  left: 277.7086486816406px;
+  width: 54.99884033203125px;
+  height: 143.6875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector19 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 144px;
+  position: absolute;
+}
+ 
+.devicedetails-group29 {
+  top: 78.37499237060547px;
+  left: 347.13580322265625px;
+  width: 54.99884033203125px;
+  height: 117.56249237060547px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector20 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 118px;
+  position: absolute;
+}
+ 
+.devicedetails-group30 {
+  top: 13.062501907348633px;
+  left: 416.5628967285156px;
+  width: 54.99884033203125px;
+  height: 182.87498474121094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.devicedetails-vector21 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 183px;
+  position: absolute;
+}
+ 
+.devicedetails-auto-layout-vertical52 {
+  height: 50px;
+  display: flex;
+  padding: 27.989999771118164px 0 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-text33 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 22px;
+}
+ 
+.devicedetails-auto-layout-horizontal22 {
+  gap: 380.3399963378906px;
+  display: flex;
+  padding: 8px 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.devicedetails-auto-layout-horizontal23 {
+  gap: -0.009999999776482582px;
+  width: 120px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-horizontal24 {
+  width: 20px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-variant26 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical53 {
+  display: flex;
+  padding: 0 0 0 12px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical54 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-auto-layout-vertical55 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text34 {
+  color: var(--dl-color-app.banani.co-black);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical56 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text35 {
+  color: var(--dl-color-app.banani.co-black50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical57 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal25 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.devicedetails-variant271 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-horizontal26 {
+  gap: 333.9100036621094px;
+  display: flex;
+  padding: 0 0 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.devicedetails-auto-layout-horizontal27 {
+  gap: -0.009999999776482582px;
+  width: 123px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-horizontal28 {
+  width: 20px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-variant28 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical58 {
+  display: flex;
+  padding: 0 0 0 12px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical59 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-auto-layout-vertical60 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text36 {
+  color: var(--dl-color-app.banani.co-black);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical61 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text37 {
+  color: var(--dl-color-app.banani.co-black50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-horizontal29 {
+  display: flex;
+  align-items: center;
+}
+ 
+.devicedetails-auto-layout-vertical62 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text38 {
+  color: var(--dl-color-app.banani.co-codgray);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical63 {
+  width: 24px;
+  height: 16px;
+  display: flex;
+  padding: 0 0 0 8px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical64 {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-variant120 {
+  width: 16px;
+  height: 16px;
+}
+ 
+.devicedetails-auto-layout-horizontal30 {
+  gap: 370.5299987792969px;
+  display: flex;
+  padding: 0 0 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+ 
+.devicedetails-auto-layout-horizontal31 {
+  gap: -0.009999999776482582px;
+  width: 130px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.devicedetails-auto-layout-horizontal32 {
+  width: 20px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-app.banani.co-electricviolet5);
+}
+ 
+.devicedetails-variant30 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.devicedetails-auto-layout-vertical65 {
+  display: flex;
+  padding: 0 0 0 12px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-vertical66 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.devicedetails-auto-layout-vertical67 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text39 {
+  color: var(--dl-color-app.banani.co-black);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical68 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.devicedetails-text40 {
+  color: var(--dl-color-app.banani.co-black50);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.devicedetails-auto-layout-vertical69 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.devicedetails-auto-layout-horizontal33 {
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.devicedetails-variant272 {
+  width: 20px;
+  height: 20px;
+}
